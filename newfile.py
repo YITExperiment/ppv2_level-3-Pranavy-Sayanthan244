@@ -1,5 +1,6 @@
 >>>
->>>age=12
-print (age)
-12
+>>>weight=40kg
+print(weight)
+40kg
 >>>
+)
